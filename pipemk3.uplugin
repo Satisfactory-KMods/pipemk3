@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.1",
+	"SemVersion": "1.1.1",
+	"FriendlyName": "pipemk3",
+	"Description": "Add a new Mk.3 pipe wioth a max of1200/min!",
+	"Category": "Other",
+	"CreatedBy": "Kyrium/Kyri123",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "pipemk3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.4.1",
+			"Enabled": true
+		}
+	]
+}
